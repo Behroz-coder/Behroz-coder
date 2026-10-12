@@ -37,11 +37,6 @@
 | [Manchester EPC](https://manchesterepc.com) | Energy Performance Certificate services for Greater Manchester | React, Responsive UI |
 | [Caliph Medical](https://caliphmedical.com) | Healthcare and medical distribution website | React, Responsive UI |
 
-## 🧪 Open-source projects
-| Project | What it is | Stack |
-|---|---|---|
-| [lexbot-nextjs-chatbot](https://github.com/Behroz-coder/lexbot-nextjs-chatbot) | AI chatbot web app ([demo](https://lexbot-nextjs-chatbot.vercel.app)) | Next.js, Tailwind CSS |
-| [Blog-website](https://github.com/Behroz-coder/Blog-website) | Full CRUD blog with auth ([demo](https://behroz-blog.netlify.app)) | React, Redux Toolkit, Appwrite |
 
 ## 📫 Let's connect
 Open to **remote Full-Stack AI Engineer** roles and select contract work. Email me at behrozazhar006@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/behrozazhar).
