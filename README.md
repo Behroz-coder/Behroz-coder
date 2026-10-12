@@ -28,7 +28,18 @@
 ## 📌 Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| [LearnAIRoadmap](https://learnairoadmap.com) | AI learning-roadmap SaaS (live) | Python, FastAPI, Next.js, LLM APIs |
+| [LearnAIRoadmap](https://learnairoadmap.com) | AI learning-roadmap SaaS (live): personalised study plans, progress tracking, quizzes, flashcards, AI resume guidance | Python, FastAPI, Next.js, LLM APIs |
+| [Skannr](https://www.skannr.com) | UK platform to discover and book private medical scans online | React, Next.js |
+| [Smart Care Planner](https://smartcareplanner.co.uk) | Care planning and management platform for UK domiciliary care providers | React, Next.js, REST APIs |
+| [Nex Developers](https://nexdevelopers.com) | Company website and service portfolio | Next.js, Tailwind CSS |
+| [Golden Coast Escrow](https://goldencoastescrowonlineservice.com) | Trust-focused escrow services website | React, Responsive UI |
+| [GoBigCAD](https://www.gobigcad.com) | Product development and mechanical CAD services website | React, Responsive UI |
+| [Manchester EPC](https://manchesterepc.com) | Energy Performance Certificate services for Greater Manchester | React, Responsive UI |
+| [Caliph Medical](https://caliphmedical.com) | Healthcare and medical distribution website | React, Responsive UI |
+
+## 🧪 Open-source projects
+| Project | What it is | Stack |
+|---|---|---|
 | [lexbot-nextjs-chatbot](https://github.com/Behroz-coder/lexbot-nextjs-chatbot) | AI chatbot web app ([demo](https://lexbot-nextjs-chatbot.vercel.app)) | Next.js, Tailwind CSS |
 | [Blog-website](https://github.com/Behroz-coder/Blog-website) | Full CRUD blog with auth ([demo](https://behroz-blog.netlify.app)) | React, Redux Toolkit, Appwrite |
 
